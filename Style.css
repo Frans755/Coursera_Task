@@ -1,0 +1,26 @@
+        body {
+            background: transparent;
+			font-family:'Verdana', sans-serif;
+        }
+		h1 {
+			font-family: 'Helvetica', sans-serif;
+		}
+
+        p {
+            font-family: 'Lucida Sans Regular', sans-serif;
+            font-size: 18px;
+            line-height: 1.6;
+            color: #333333;
+        }
+
+        .home {
+            text-align: center;
+            font-family: 'Lucida Sans Regular';
+        }
+
+        .maps
+        {
+            text-align: center;
+            margin: 20px 0;
+            font-family: 'Lucida Sans Regular';
+        }
